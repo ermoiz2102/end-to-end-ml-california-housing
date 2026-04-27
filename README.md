@@ -82,7 +82,7 @@ This project demonstrates a complete machine learning lifecycle from data analys
 * Matplotlib, Seaborn
 * ydata-profiling
 * Streamlit
-* Docker
+
 
 ---
 
